@@ -16,8 +16,13 @@
 - Hands on experience in emerging technologies like Blockchain programming using Hyperledger Fabric , Quantum computing using IBM Qiskit.
 
 ---
-🧰 Toolbox
+🧰 **Technologies Familier With** 🧰
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" width="50" height="50">  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="50" height="50">  <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" width="50" height="50">  <img src="https://github.com/devicons/devicon/blob/master/icons/groovy/groovy-original.svg" width="50" height="50">  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" width="50" height="50">  <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original-wordmark.svg" width="50" height="50">  <img src="https://github.com/devicons/devicon/blob/master/icons/grails/grails-original.svg" width="50" height="50">  <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original-wordmark.svg" width="50" height="50">  <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Qiskit-Logo.svg" width="50" height="50">  <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" width="50" height="50"> 
+
+🧰 **Professional Certifications** 🧰
+
+<img src="https://worldvectorlogo.com/logo/professional-scrum-master-ii" width="50" height="50">
+
 
 	
