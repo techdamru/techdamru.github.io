@@ -22,7 +22,7 @@
 
 🧰 **Professional Certifications** 🧰
 
-<img src="professional-scrum-master-i.svg" width="70" height="70">  <img src="professional-scrum-master-ii.svg" width="70" height="70">
+<img src="professional-scrum-master-i.svg" width="70" height="70">  <img src="professional-scrum-master-ii.svg" width="70" height="70"> <img src="logo-icp-acc.png" width="70" height="70">
 
 
 	
