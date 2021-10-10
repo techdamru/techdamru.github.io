@@ -22,7 +22,7 @@
 
 🧰 **Professional Certifications** 🧰
 
-<img src="https://worldvectorlogo.com/logo/professional-scrum-master-ii" width="50" height="50">
+<img src="professional-scrum-master-i.svg" width="70" height="70">  <img src="professional-scrum-master-ii.svg" width="70" height="70">
 
 
 	
