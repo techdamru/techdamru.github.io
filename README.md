@@ -53,4 +53,5 @@ Both music and photography are essential part of my life.
 	
 | | | |
 |:-------------------------:|:-------------------------:|:-------------------------:|
-|<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="logos/photo5.jpg"> |<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="logos/photo2.jpg">|<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="logos/photo3.jpg">|<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="logos/photo7.jpg">  |  <img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="logos/photo8.jpg">|<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="logos/photo9.jpg">|
+|<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="logos/photo5.jpg"> |<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="logos/photo2.jpg">|<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="logos/photo3.jpg">|
+|<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="logos/photo7.jpg"> | <img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="logos/photo8.jpg">|<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="logos/photo9.jpg">|
