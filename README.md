@@ -1,6 +1,9 @@
-### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Soumayajit Hazra !
+### Hi there 👋, my name is Soumayajit !
+#### I am a Father, Husband, Developer, Teacher, Change Enabler, Amateur Photographer, Guitar Player and hardcore fan of Blues !!!
+![I am a Father, Husband, Developer, Teacher, Change Enabler, Amateur Photographer, Guitar Player and hardcore fan of Blues !!!](logos/github_banner.jpg)
 
-## I am a Father, Husband, Developer, Teacher, Change Enabler, Amateur Photographer, Guitar Player and hardcore fan of Blues !!!
+As part of my day to day work, I assist development teams to become self-organized and help them to deliver quality code faster.
+
 ---
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/soumayajit-hazra-20437b18/)
