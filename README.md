@@ -1,4 +1,6 @@
-### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Soumayajit Hazra !!!
+### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Soumayajit Hazra !
+
+## I am a Father, Husband, Developer, Teacher, Change Enabler, Amateur Photographer, Guitar Player and hardcore fan of Blues !!!
 ---
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/soumayajit-hazra-20437b18/)
@@ -16,11 +18,11 @@
 - Hands on experience in emerging technologies like Blockchain programming using Hyperledger Fabric , Quantum computing using IBM Qiskit.
 
 ---
-🧰 **Languages and Tools** 🧰
+🧰 **Languages and Tools**
 
 <img src="logos/java-original-wordmark.svg??sanitize=true" width="50" height="50">  <img src="logos/javascript-original.svg" width="50" height="50">  <img src="logos/flutter-original.svg" width="50" height="50">  <img src="logos/groovy-original.svg" width="50" height="50">  <img src="logos/python-original-wordmark.svg" width="50" height="50">  <img src="logos/azure-original-wordmark.svg" width="50" height="50">  <img src="logos/grails-original.svg" width="50" height="50">  <img src="logos/unity-original-wordmark.svg" width="50" height="50">  <img src="logos/Qiskit-Logo.svg" width="50" height="50">  <img src="logos/jira-original-wordmark.svg" width="50" height="50"> 
 
-🧰 **Professional Certifications** 🧰
+🧰 **Professional Certifications**
 
 <img src="logos/professional-scrum-master-i.svg??sanitize=true" width="70" height="70">  <img src="logos/professional-scrum-master-ii.svg??sanitize=true" width="70" height="70">  <img src="logos/logo-icp-acc.png??sanitize=true" width="70" height="70">
 
