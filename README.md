@@ -1,5 +1,9 @@
-### Hi there 👋, my name is Soumayajit !
+### Hi there 👋, this is Soumayajit Hazra from India !! 
 #### I am a Father, Husband, Developer, Teacher, Change Enabler, Amateur Photographer, Guitar Player and hardcore blues fan !!!
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/soumayajit-hazra-20437b18/)
+&nbsp;[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/soumayajit.hazra)&nbsp;   [![Insta](https://img.shields.io/badge/futoscope-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/futoscope/) &nbsp;
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/techdamru) ![Profile views](https://gpvc.arturio.dev/techdamru)
 
 - 🔭 I’m currently working on productization journey 
 - 🌱 I’m currently learning Quantum Computing using Qiskit 
@@ -13,10 +17,6 @@
 As part of my day to day work, I assist development teams to become self-organized and help them to deliver quality code faster.
 
 ---
-
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/soumayajit-hazra-20437b18/)
-&nbsp;[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/soumayajit.hazra)&nbsp;   [![Insta](https://img.shields.io/badge/futoscope-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/futoscope/) &nbsp;
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/techdamru) ![Profile views](https://gpvc.arturio.dev/techdamru)
 
 
 ### Professional Summary
@@ -43,5 +43,15 @@ As part of my day to day work, I assist development teams to become self-organiz
 
 <a href="https://www.linkedin.com/pulse/introduction-quantum-computing-soumayajit-hazra/?trackingId=kyiFizy%2Fyp3SjDez6D2rBA%3D%3D"><img src="logos/linkedin_article.JPG" alt="HTML tutorial" style="width:60;height:50;"></a>
 
+---
 
+🎸 **Personal interests**
+
+Both music and photography are essential part of my life. 
+
+<img src="logos/gig.jpg" alt="HTML tutorial" style="width:60;height:50;">
+<img src="logos/photo1.jpg" alt="HTML tutorial" style="width:60;height:50;">
+<img src="logos/photo2.jpg" alt="HTML tutorial" style="width:60;height:50;">
+<img src="logos/photo3.jpg" alt="HTML tutorial" style="width:60;height:50;">
+<img src="logos/photo4.jpg" alt="HTML tutorial" style="width:60;height:50;">
 	
