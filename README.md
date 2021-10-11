@@ -12,7 +12,8 @@
 - 💬 Ask me about career advice, programming stuffs or music 
 - 📫 How to reach me:  LinkedIn or Facebook 
 - ⚡ Fun fact: No professional services on weekends  
-
+ 
+<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
 
 As part of my day to day work, I assist development teams to become self-organized and help them to deliver quality code faster.
 
