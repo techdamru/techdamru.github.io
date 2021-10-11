@@ -41,7 +41,7 @@ As part of my day to day work, I assist development teams to become self-organiz
 
 📖 **Check out my latest article**
 
-<a href="https://www.linkedin.com/pulse/introduction-quantum-computing-soumayajit-hazra/?trackingId=kyiFizy%2Fyp3SjDez6D2rBA%3D%3D"><img src="logos/linkedin_article.JPG" alt="HTML tutorial" style="width:60;height:50;"></a>
+<a href="https://www.linkedin.com/pulse/introduction-quantum-computing-soumayajit-hazra/?trackingId=kyiFizy%2Fyp3SjDez6D2rBA%3D%3D"><img src="logos/linkedin_article.PNG" alt="HTML tutorial" style="width:60;height:50;"></a>
 
 ---
 
