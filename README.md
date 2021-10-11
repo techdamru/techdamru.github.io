@@ -18,7 +18,7 @@
 ---
 🧰 **Technologies Familier With** 🧰
 
-<img src="logos/java-original-wordmark.svg" width="50" height="50">  <img src="logos/javascript-original.svg" width="50" height="50">  <img src="logos/flutter-original.svg" width="50" height="50">  <img src="logos/groovy-original.svg" width="50" height="50">  <img src="logos/python-original-wordmark.svg" width="50" height="50">  <img src="logos/azure-original-wordmark.svg" width="50" height="50">  <img src="logos/grails-original.svg" width="50" height="50">  <img src="logos/unity-original-wordmark.svg" width="50" height="50">  <img src="logos/Qiskit-Logo.svg" width="50" height="50">  <img src="logos/jira-original-wordmark.svg" width="50" height="50"> 
+<img src="logos/java-original-wordmark.svg?sanitize=true" width="50" height="50">  <img src="logos/javascript-original.svg" width="50" height="50">  <img src="logos/flutter-original.svg" width="50" height="50">  <img src="logos/groovy-original.svg" width="50" height="50">  <img src="logos/python-original-wordmark.svg" width="50" height="50">  <img src="logos/azure-original-wordmark.svg" width="50" height="50">  <img src="logos/grails-original.svg" width="50" height="50">  <img src="logos/unity-original-wordmark.svg" width="50" height="50">  <img src="logos/Qiskit-Logo.svg" width="50" height="50">  <img src="logos/jira-original-wordmark.svg" width="50" height="50"> 
 
 🧰 **Professional Certifications** 🧰
 
