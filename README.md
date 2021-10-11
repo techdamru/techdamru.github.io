@@ -47,7 +47,7 @@ As part of my day to day work, I assist development teams to become self-organiz
 
 🎸 **Personal interests**
 
-Both music and photography are essential part of my life. 
+Music and photography are two of essential part of my life. 
 
 <img src="logos/photo1.jpg" alt="HTML tutorial" style="width:60;height:50;">
 	
