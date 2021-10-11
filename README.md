@@ -29,7 +29,9 @@ As part of my day to day work, I assist development teams to become self-organiz
 
 <img src="logos/professional-scrum-master-i.svg??sanitize=true" width="70" height="70">  <img src="logos/professional-scrum-master-ii.svg??sanitize=true" width="70" height="70">  <img src="logos/logo-icp-acc.png??sanitize=true" width="70" height="70">
 
+📖 **Check out my latest article**
 
+<a href="https://www.linkedin.com/pulse/introduction-quantum-computing-soumayajit-hazra/?trackingId=kyiFizy%2Fyp3SjDez6D2rBA%3D%3D"><img src="logos/linkedin_article.JPG" alt="HTML tutorial" style="width:60;height:50;"></a>
 
 
 	
