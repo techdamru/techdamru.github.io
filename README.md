@@ -31,13 +31,11 @@ As part of my day to day work, I assist development teams to become self-organiz
 - Hands on experience in emerging technologies like Blockchain programming using Hyperledger Fabric , Quantum computing using IBM Qiskit.
 
 ---
-🧰 **Languages and Tools**
+🧰 **Languages, Tools & Professional Certifications**
 
-<img src="logos/java-original-wordmark.svg??sanitize=true" width="50" height="50">  <img src="logos/javascript-original.svg" width="50" height="50">  <img src="logos/flutter-original.svg" width="50" height="50">  <img src="logos/groovy-original.svg" width="50" height="50">  <img src="logos/python-original-wordmark.svg" width="50" height="50">  <img src="logos/azure-original-wordmark.svg" width="50" height="50">  <img src="logos/grails-original.svg" width="50" height="50">  <img src="logos/unity-original-wordmark.svg" width="50" height="50">  <img src="logos/Qiskit-Logo.svg" width="50" height="50">  <img src="logos/jira-original-wordmark.svg" width="50" height="50"> 
+<img src="logos/java-original-wordmark.svg??sanitize=true" width="50" height="50">  <img src="logos/javascript-original.svg" width="50" height="50">  <img src="logos/flutter-original.svg" width="50" height="50">  <img src="logos/groovy-original.svg" width="50" height="50">  <img src="logos/python-original-wordmark.svg" width="50" height="50">  <img src="logos/azure-original-wordmark.svg" width="50" height="50">  <img src="logos/grails-original.svg" width="50" height="50">  <img src="logos/unity-original-wordmark.svg" width="50" height="50">  <img src="logos/Qiskit-Logo.svg" width="50" height="50">  <img src="logos/jira-original-wordmark.svg" width="50" height="50">           <img src="logos/scjp_logo.jpg?sanitize=true" width="80" height="60"><img src="logos/professional-scrum-master-i.svg??sanitize=true" width="70" height="70">  <img src="logos/professional-scrum-master-ii.svg??sanitize=true" width="70" height="70">  <img src="logos/logo-icp-acc.png??sanitize=true" width="70" height="70">
 
-🧰 **Professional Certifications**
-
-<img src="logos/professional-scrum-master-i.svg??sanitize=true" width="70" height="70">  <img src="logos/professional-scrum-master-ii.svg??sanitize=true" width="70" height="70">  <img src="logos/logo-icp-acc.png??sanitize=true" width="70" height="70">
+<br>
 
 📖 **Check out my latest article**
 
