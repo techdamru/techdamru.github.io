@@ -1,4 +1,5 @@
-### Hi there 👋, this is Soumayajit Hazra from India !! 
+
+## Hi there 👋, this is Soumayajit Hazra from India !!
 #### I am a Father, Husband, Developer, Teacher, Change Enabler, Amateur Photographer, Guitar Player and hardcore blues fan !!!
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/soumayajit-hazra-20437b18/)
