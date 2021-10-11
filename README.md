@@ -49,9 +49,9 @@ As part of my day to day work, I assist development teams to become self-organiz
 
 Both music and photography are essential part of my life. 
 
-<img src="logos/gig.jpg" alt="HTML tutorial" style="width:60;height:50;">
 <img src="logos/photo1.jpg" alt="HTML tutorial" style="width:60;height:50;">
-<img src="logos/photo2.jpg" alt="HTML tutorial" style="width:60;height:50;">
-<img src="logos/photo3.jpg" alt="HTML tutorial" style="width:60;height:50;">
-<img src="logos/photo4.jpg" alt="HTML tutorial" style="width:60;height:50;">
 	
+| | | |
+|:-------------------------:|:-------------------------:|:-------------------------:|
+|<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="logos/photo5.jpg"> |<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="logos/photo2.jpg">|<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="logos/photo3.jpg">| |  <img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="logos/photo5.jpg">|<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="logos/photo6.jpg">|
+|<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="logos/photo7.jpg">  |  <img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="logos/photo8.jpg">|<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="logos/photo9.jpg">|
