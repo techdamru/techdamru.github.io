@@ -1,15 +1,25 @@
 ### Hi there 👋, my name is Soumayajit !
-#### I am a Father, Husband, Developer, Teacher, Change Enabler, Amateur Photographer, Guitar Player and hardcore fan of Blues !!!
-![I am a Father, Husband, Developer, Teacher, Change Enabler, Amateur Photographer, Guitar Player and hardcore fan of Blues !!!](logos/github_banner.jpg)
+#### I am a Father, Husband, Developer, Teacher, Change Enabler, Amateur Photographer, Guitar Player and hardcore blues fan !!!
+
+- 🔭 I’m currently working on productization journey 
+- 🌱 I’m currently learning Quantum Computing using Qiskit 
+- 👯 I’m looking to collaborate on Qiskit 
+- 🤔 I’m looking for help with Understanding quantum search algorithm 
+- 💬 Ask me about career advice, programming stuffs or music 
+- 📫 How to reach me:  LinkedIn or Facebook 
+- ⚡ Fun fact: No professional services on weekends  
+
 
 As part of my day to day work, I assist development teams to become self-organized and help them to deliver quality code faster.
 
 ---
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/soumayajit-hazra-20437b18/)
-&nbsp;[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/soumayajit.hazra)&nbsp;   [![Insta](https://img.shields.io/badge/futoscope-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/futoscope/)&nbsp;   
+&nbsp;[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/soumayajit.hazra)&nbsp;   [![Insta](https://img.shields.io/badge/futoscope-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/futoscope/) &nbsp;
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/techdamru) ![Profile views](https://gpvc.arturio.dev/techdamru)
 
-### Profile Summary
+
+### Professional Summary
 
 - 14 years of overall IT industry experience encompassing a wide range of skill set, roles and industry verticals such as retail, banking and telecom. 
 - Certified Scrum Master with over 4 years of experience in supporting scrum, facilitating scrum ceremonies, mentoring and coaching the team in several agile aspects. Experience in working under agile environment and tools like Azure DevOps, Rally, JIRA and Confluence. 
